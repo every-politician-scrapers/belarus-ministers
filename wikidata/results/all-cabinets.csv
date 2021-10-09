@@ -1,0 +1,5 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q18408425,Kebich government,1990-01-01,9,,,1994-01-01,9,,,Q997640,Council of Ministers of the Republic of Belarus,,,,,,,,,,
+,Q13030905,Myasnikovich government,2010-12-28,11,,,2014-12-27,11,,,Q997640,Council of Ministers of the Republic of Belarus,,,,,,,,,,
+,Q57525757,Rumas government,2018-08-18,11,,,2020-06-03,11,,,Q997640,Council of Ministers of the Republic of Belarus,,,,,,,,,,
+,Q96480444,Golovchenko government,2020-06-04,11,,,,,,,Q997640,Council of Ministers of the Republic of Belarus,,,,,,,,,,
