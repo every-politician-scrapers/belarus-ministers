@@ -49,7 +49,7 @@ class Officeholder < Scraped::HTML
     tds[1].css('a').map { |link| link.attr('wikidata') }.first
   end
 
-  field :officeLabel do
+  field :officeBY do
     tds[1].text.tidy
   end
 
@@ -57,7 +57,7 @@ class Officeholder < Scraped::HTML
     tds[2].css('a').map { |link| link.attr('wikidata') }.first
   end
 
-  field :personLabel do
+  field :personBY do
     tds[2].text.tidy
   end
 
@@ -71,8 +71,22 @@ end
 url = 'https://be.wikipedia.org/wiki/%D0%A1%D0%B0%D0%B2%D0%B5%D1%82_%D0%9C%D1%96%D0%BD%D1%96%D1%81%D1%82%D1%80%D0%B0%D1%9E_%D0%A0%D1%8D%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D1%96%D0%BA%D1%96_%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C'
 data = MinistersList.new(response: Scraped::Request.new(url: url).response).ministers
 
-header = data.first.keys.to_csv
-rows = data.map { |row| row.values.to_csv }
-abort 'No results' if rows.count.zero?
+wdids = data.flat_map { |row| row.values_at(:office, :person) }.compact.reject(&:empty?).uniq
+lines = wdids.each_slice(50).map do |slice|
+  res = `wd label -l en #{slice.join(' ')}`
+  res.lines
+end
+labels = lines.flatten.map { |line| line.chomp.split(' ', 2) }.to_h
 
+header = "office,officeBY,person,personBY,officeEN,personEN\n"
+rows = data.map do |row|
+  row.merge(
+    {
+      officeEN: labels[row[:office]],
+      personEN: labels[row[:person]],
+    }
+  ).values.to_csv
+end
+
+abort 'No results' if rows.count.zero?
 puts header + rows.join
