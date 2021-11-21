@@ -45,6 +45,10 @@ class MinistersList < Scraped::HTML
 end
 
 class Officeholder < Scraped::HTML
+  field :number do
+    tds[0].text.tidy.to_i
+  end
+
   field :office do
     tds[1].css('a').map { |link| link.attr('wikidata') }.first
   end
@@ -78,7 +82,7 @@ lines = wdids.each_slice(50).map do |slice|
 end
 labels = lines.flatten.map { |line| line.chomp.split(' ', 2) }.to_h
 
-header = "office,officeBY,person,personBY,officeEN,personEN\n"
+header = "num,office,officeBY,person,personBY,officeEN,personEN\n"
 rows = data.map do |row|
   row.merge(
     {
