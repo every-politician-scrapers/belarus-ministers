@@ -681,6 +681,12 @@
             "2020 Belarusian protests"
           ],
           "template": "main"
+        },
+        {
+          "text": "Uladzimir Lobač",
+          "lan1": "be",
+          "text1": "Уладзімір Аляксандравіч Лобач",
+          "template": "ill"
         }
       ],
       "references": [

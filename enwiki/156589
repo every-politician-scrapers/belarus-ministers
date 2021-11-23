@@ -3758,6 +3758,22 @@
             "2020–2021 Belarusian protests"
           ],
           "template": "main"
+        },
+        {
+          "text": "Alexander Feduta",
+          "lan1": "ru",
+          "text1": "Федута, Александр Иосифович",
+          "lan2": "be",
+          "text2": "Аляксандр Іосіфавіч Фядута",
+          "template": "ill"
+        },
+        {
+          "text": "Yuri Zenkovich",
+          "lan1": "ru",
+          "text1": "Зенкович, Юрий Леонидович",
+          "lan2": "be",
+          "text2": "Юрась Зянковіч",
+          "template": "ill"
         }
       ],
       "references": [
