@@ -175,12 +175,6 @@
         {
           "date": "January 2020",
           "template": "refimprove"
-        },
-        {
-          "text": "BelVEB Bank",
-          "lan1": "ru",
-          "text1": "Банк БелВЭБ",
-          "template": "ill"
         }
       ],
       "references": [
@@ -195,21 +189,6 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "belarus-bio-stub"
         }
       ]
     }
