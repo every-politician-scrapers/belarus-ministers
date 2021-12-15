@@ -471,7 +471,7 @@
             "text": "General Secretary"
           },
           "2namedata1": {
-            "text": "Pavel Borodin\n\nGrigory Rapota",
+            "text": "Pavel Borodin\n\nGrigory Rapota\n\nDmitry Mezentsev",
             "links": [
               {
                 "type": "internal",
@@ -480,6 +480,10 @@
               {
                 "type": "internal",
                 "page": "Grigory Rapota"
+              },
+              {
+                "type": "internal",
+                "page": "Dmitry Mezentsev"
               }
             ]
           },
@@ -490,12 +494,11 @@
             "text": "Office established"
           },
           "office2": {
-            "text": "Member of the Belarusian Supreme Council (abolished 1996)",
+            "text": "Member of the Supreme Council of Belarus",
             "links": [
               {
-                "text": "Belarusian Supreme Council",
                 "type": "internal",
-                "page": "Supreme Soviet of Belarus"
+                "page": "Supreme Council of Belarus"
               }
             ]
           },
@@ -506,28 +509,6 @@
           "term_end2": {
             "text": "1994",
             "number": 1994
-          },
-          "predecessor2": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "successor2": {
-            "text": "Position ended (succeeded by: the National Assembly of Belarus)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "National Assembly of Belarus"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Position ended"
-              ]
-            }
           },
           "birth_name": {
             "text": "Alexander Grigoryevich Lukashenko"
