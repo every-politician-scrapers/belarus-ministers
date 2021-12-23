@@ -2,9 +2,9 @@ wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,psid
 Q102109268,Anatoly Markevich,Anatol Markevich,male,1971-01-01,9,http://www.government.by/en/departments/,2021-08-24,Q13414824,Minister of Culture,Q102109268-4c76ed8c-48db-7e15-5c19-a2a8baae3aeb
 Q105882952,Vadim Sinyavsky,Vadim Sinyavsky,male,1970-05-15,11,,,Q106510810,Minister of Emergency Situations of the Republic of Belarus,Q105882952-4C917799-BB18-42C9-A54C-08BDF41EABFF
 Q106373017,Piartsou Uladzimir,Vladimir Pertsov,male,1974-05-07,11,http://www.government.by/en/departments/,2021-08-24,Q106399613,Minister of Information,Q106373017-b311a152-4ecd-ec7e-e049-749782d6e388
+Q110223669,Alexei Bogdanov,Alexei Bogdanov,male,1973-06-27,11,,,Q106510807,Minister of Antimonopoly Regulation and Trade of the Republic of Belarus,Q110223669-ed84fc8f-43a4-41ee-7d1a-62a462b5d869
 Q13031552,Nikolai Snopkov,Mikalai Snapkou,male,1969-09-14,11,http://www.government.by/en/departments/,2021-08-24,Q18690166,First Deputy Prime Minister of the Republic of Belarus,Q13031552-e6bce116-4f77-e53c-cbe5-4a6517d53bad
 Q2026222,Vladimir Makey,Vladimir Makei,male,1958-08-05,11,http://www.government.by/en/departments/,2021-08-24,Q2045068,Minister of Foreign Affairs,Q2026222-B38791EA-BF37-409E-92D4-57C5D6129F4F
-Q21780643,Vladimir Koltovich,Vladimir Koltovich,male,1966-10-01,11,http://www.government.by/en/departments/,2021-08-24,Q106510807,Minister of Antimonopoly Regulation and Trade,Q21780643-BB591BF1-C914-4352-8E89-98E065583DDF
 Q21843506,Sergey Nalivaiko,Sergey Nalivaiko,male,1973-10-24,11,http://www.government.by/en/departments/,2021-08-24,Q106510811,Minister of Tax Collection,Q21843506-4D2CBD3C-41AA-4248-8294-1E69D42A459C
 Q27043179,Roman Golovchenko,Roman Golovchenko,male,1973-08-10,11,,,Q12379704,Prime Minister of Belarus,Q27043179-5FA7AFAE-1097-4918-8837-A4A92E8E7EBC
 Q28016609,Igor Karpenko,Ihar Karpienka,male,1964-04-28,11,http://www.government.by/en/departments/,2021-08-24,Q106457598,Minister of Education,Q28016609-806a3886-4854-1f92-fd49-739d4a90c95a
@@ -20,7 +20,6 @@ Q60626586,Aleksey Avramenko,Aleksey Avramenko,male,1977-05-11,11,http://www.gove
 Q80901264,Aleksander Chervyakov,Aleksander Chervyakov,male,1966-09-15,11,http://www.government.by/en/departments/,2021-08-24,Q81117853,Minister of Economy,Q80901264-B69E8EFD-1A6D-4D34-97D5-73FD87C5C98B
 Q83283317,Viktor Khrenin,Viktor Khrenin,male,1971-08-01,11,http://www.government.by/en/departments/,2021-08-24,Q44035369,Minister of Defence,Q83283317-39596078-15B8-418A-83B6-C45ACA990B5A
 Q87058344,Yury Nazarov,Jury Nazaraŭ,male,1962-01-01,9,http://www.government.by/en/departments/,2021-08-24,Q18690228,Deputy Prime Minister of the Republic of Belarus,Q87058344-4046f073-4964-60ff-7824-2f1990187591
-Q87965835,Ivan Krupko,Ivan Krupko,male,1974-07-23,11,http://www.government.by/en/departments/,2021-08-24,Q90315932,Minister of Agriculture and Food,Q87965835-2b35145d-4ed6-8dac-24dd-11d197fb633b
 Q90845282,Petr Parkhomchyk,Piotr Parkhomchyk,male,1957-08-22,11,http://www.government.by/en/departments/,2021-08-24,Q106508605,Minister of Industry,Q90845282-5feb2e39-4a49-0fcf-2ffc-371470f902d5
 Q96059302,Ruslan Parkhamovich,Ruslan Parkhamovich,male,1980-07-18,11,,,Q13411105,Minister of Architecture and Construction of the Republic of Belarus,Q96059302-B980B983-E389-422B-85C3-F4C9119C5D13
 Q96096369,Yry Seliverstau,Yry Seliverstau,male,1978-01-01,9,http://www.government.by/en/departments/,2021-08-24,Q106510813,Minister of Finance,Q96096369-65797944-4E4D-42EB-BCD4-FE5DE6A1F7FA
