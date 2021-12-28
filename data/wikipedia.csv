@@ -10,15 +10,15 @@ num,office,officeBY,person,personBY,officeEN,personEN
 9,,Намеснік Прэм’ер-міністра Рэспублікі Беларусь,Q87058344,Юрый Назараў,,Jury Nazaraŭ
 10,Q2576529,Міністр абароны Рэспублікі Беларусь,Q83283317,Віктар Хрэнін,Ministry of Defence of the Republic of Belarus,Viktor Khrenin
 11,Q6517829,Міністр адукацыі Рэспублікі Беларусь,Q28016609,Ігар Карпенка,Ministry of Education of the Republic of Belarus,Ihar Karpienka
-12,Q6517837,Міністр архітэктуры і будаўніцтва Рэспублікі Беларусь,Q96059302,Руслан Пархамовіч,Ministry of Architecture and Construction of the Republic of Belarus,not found
+12,Q6517837,Міністр архітэктуры і будаўніцтва Рэспублікі Беларусь,Q96059302,Руслан Пархамовіч,Ministry of Architecture and Construction of the Republic of Belarus,Ruslan Parkhamovich
 13,Q3919266,Міністр аховы здароўя Рэспублікі Беларусь,Q98605721,Дзмітрый Піневіч,Ministry of Public Health of the Republic of Belarus,Dmitry Pinevich
-14,Q6517849,Міністр антыманапольнага рэгулявання і гандлю Рэспублікі Беларусь,Q21780643,Уладзімір Калтовіч,Ministry of Antimonopoly Regulation and Trade of the Republic of Belarus,Vladimir Koltovich
+14,Q6517849,Міністр антыманапольнага рэгулявання і гандлю Рэспублікі Беларусь,Q110223669,Аляксей Багданаў,Ministry of Antimonopoly Regulation and Trade of the Republic of Belarus,Alexei Bogdanov
 15,Q6517855,Міністр жыллёва-камунальнай гаспадаркі Рэспублікі Беларусь,Q96313371,Андрэй Хмель,Ministry of Housing and Communal Services of the Republic of Belarus,Andrey Khmel
-16,Q2047848,Міністр замежных спраў Рэспублікі Беларусь,Q2026222,Уладзімір Макей,Ministry of Foreign Affairs of the Republic of Belarus,Uladzimir Makei
+16,Q2047848,Міністр замежных спраў Рэспублікі Беларусь,Q2026222,Уладзімір Макей,Ministry of Foreign Affairs of the Republic of Belarus,Vladimir Makei
 17,Q13031632,Міністр інфармацыі Рэспублікі Беларусь,Q106373017,Уладзімір Пярцоў,Ministry of Information of the Republic of Belarus,Vladimir Pertsov
 18,Q11775449,Міністр культуры Рэспублікі Беларусь,Q102109268,Анатоль Маркевіч,Ministry of Culture of the Republic of Belarus,Anatol Markevich
 19,Q6517863,Міністр лясной гаспадаркі Рэспублікі Беларусь,Q51543499,Віталь Дрожжа,Ministry of Forestry of the Republic of Belarus,Vitaly Drozhzha
-20,Q3315400,Міністр па надзвычайных сітуацыях Рэспублікі Беларусь,Q105882952,Вадзім Сіняўскі,Ministry of Emergency Situations of the Republic of Belarus,not found
+20,Q3315400,Міністр па надзвычайных сітуацыях Рэспублікі Беларусь,Q105882952,Вадзім Сіняўскі,Ministry of Emergency Situations of the Republic of Belarus,Vadim Sinyavsky
 21,Q4294599,Міністр па падатках і зборах Рэспублікі Беларусь,Q21843506,Сяргей Налівайка,Ministry of Taxes and Duties of the Republic of Belarus,Sergey Nalivaiko
 22,Q6517870,Міністр прамысловасці Рэспублікі Беларусь,Q90845282,Пётр Пархомчык,Ministry of Industry of the Republic of Belarus,Piotr Parkhomchyk
 23,Q6517877,Міністр працы і сацыяльнай абароны Рэспублікі Беларусь,Q28971534,Ірына Касцевіч,Ministry of Labour and Social Protection of the Republic of Belarus,Irina Kostevich
@@ -32,12 +32,12 @@ num,office,officeBY,person,personBY,officeEN,personEN
 31,Q6517908,Міністр эканомікі Рэспублікі Беларусь,Q80901264,Аляксандр Чарвякоў,Ministry of Economy of the Republic of Belarus,Aleksander Chervyakov
 32,Q13031631,Міністр энергетыкі Рэспублікі Беларусь,Q56418116,Віктар Каранкевіч,Ministry of Energy of the Republic of Belarus,Viktor Karankevich
 33,Q3918962,Міністр юстыцыі Рэспублікі Беларусь,Q98833684,Сяргей Хаменка,Ministry of Justice of the Republic of Belarus,Siarhei Khamenka
-34,Q6487420,Старшыня Дзяржаўнага ваенна-прамысловага камітэта Рэспублікі Беларусь,Q96185843,Дзмітрый Пантус,not found,not found
-35,Q6487423,Старшыня Дзяржаўнага камітэта па маёмасці Рэспублікі Беларусь,Q96782465,Дзмітрый Матусевіч,The State Committee on Property of the Republic of Belarus,not found
+34,Q6487420,Старшыня Дзяржаўнага ваенна-прамысловага камітэта Рэспублікі Беларусь,Q96185843,Дзмітрый Пантус,State Authority for Military Industry of the Republic of Belarus,Dmitry Pantus
+35,Q6487423,Старшыня Дзяржаўнага камітэта па маёмасці Рэспублікі Беларусь,Q96782465,Дзмітрый Матусевіч,The State Committee on Property of the Republic of Belarus,Dzmitry Matusevich
 36,Q6487432,Старшыня Дзяржаўнага камітэта па навуцы і тэхналогіях Рэспублікі Беларусь,Q20190203,Аляксандр Шумілін,State Committee on Science and Technology,Alexander Shumilin
-37,Q6487442,Старшыня Дзяржаўнага камітэта па стандартызацыі Рэспублікі Беларусь,Q60627515,Валянцін Татарыцкі,not found,not found
-38,Q4146971,Старшыня Дзяржаўнага мытнага камітэта Рэспублікі Беларусь,Q20190057,Юрый Сянько,State Customs Committee of the Republic of Belarus,Yuri Senko
-39,Q4146916,Старшыня Дзяржаўнага пагранічнага камітэта Рэспублікі Беларусь,Q28110629,Анатоль Лапо,State Border Committee of the Republic of Belarus,not found
+37,Q6487442,Старшыня Дзяржаўнага камітэта па стандартызацыі Рэспублікі Беларусь,Q60627515,Валянцін Татарыцкі,not found,Valentin Tataritsky
+38,Q4146971,Старшыня Дзяржаўнага мытнага камітэта Рэспублікі Беларусь,Q104405516,Уладзімір Арлоўскі,State Customs Committee of the Republic of Belarus,Uladzimir Arloŭski
+39,Q4146916,Старшыня Дзяржаўнага пагранічнага камітэта Рэспублікі Беларусь,Q28110629,Анатоль Лапо,State Border Committee of the Republic of Belarus,Anatoly Lapo
 40,Q1329608,Старшыня Камітэта дзяржаўнай бяспекі Рэспублікі Беларусь,"",Іван Тэртэль,State Security Committee of the Republic of Belarus,
-41,Q1967977,Старшыня Прэзідыума Нацыянальнай акадэміі навук Беларусі,Q17619558,Уладзімір Гусакоў,National Academy of Sciences of Belarus,Uladzimir Husakow
-42,,Старшыня Праўлення Беларускага рэспубліканскага саюза спажывецкіх таварыстваў,Q3918889,Валерый Іваноў,,not found
+41,Q1967977,Старшыня Прэзідыума Нацыянальнай акадэміі навук Беларусі,Q17619558,Уладзімір Гусакоў,National Academy of Sciences of Belarus,Vladimir Gusakov
+42,,Старшыня Праўлення Беларускага рэспубліканскага саюза спажывецкіх таварыстваў,Q3918889,Валерый Іваноў,,Valery Ivanow
