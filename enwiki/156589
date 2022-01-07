@@ -333,10 +333,10 @@
             "text": "Александр Лукашенко Аляксандр Лукашэнка"
           },
           "image": {
-            "text": "Alexander Lukashenko (2020-09-03) 01(cropped).jpg"
+            "text": "Александр Лукашенко (28-12-2021).jpg"
           },
           "caption": {
-            "text": "Lukashenko in 2020"
+            "text": "Lukashenko in December 2021"
           },
           "office": {
             "text": "President of Belarus",
@@ -635,6 +635,10 @@
           },
           "signature": {
             "text": "SigAlexanderLukashenko.svg"
+          },
+          "width": {
+            "text": "250",
+            "number": 250
           }
         }
       ]
