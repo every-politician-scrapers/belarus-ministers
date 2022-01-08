@@ -1,5 +1,10 @@
-ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q18408425,Kebich government,1990-01-01,9,,,1994-01-01,9,,,Q997640,Council of Ministers of the Republic of Belarus,,,,,,,,,,
-,Q13030905,Myasnikovich government,2010-12-28,11,,,2014-12-27,11,,,Q997640,Council of Ministers of the Republic of Belarus,,,,,,,,,,
-,Q57525757,Rumas government,2018-08-18,11,,,2020-06-03,11,,,Q997640,Council of Ministers of the Republic of Belarus,,,,,,,,,,
-,Q96480444,Golovchenko government,2020-06-04,11,,,,,,,Q997640,Council of Ministers of the Republic of Belarus,,,,,,,,,,
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q18408425,Kebich government,1990-01-01,9,,,1994-01-01,9,,,,,,,,,,
+,Q18408431,Chigir government,1994-01-01,9,,,1997-01-01,9,,,,,,,,,,
+,Q18408433,Ling/Yermoshin government,1997-01-01,9,,,2001-01-01,9,,,,,,,,,,
+,Q18408427,Novitsky/Sidorsky government,2001-01-01,9,,,2006-01-01,9,,,,,,,,,,
+,Q18408434,Sidorsky government,2006-01-01,9,,,2010-01-01,9,,,,,,,,,,
+,Q13030905,Myasnikovich government,2010-12-28,11,,,2014-12-27,11,,,,,,,,,,
+,Q18690062,Kobyakov government,2014-12-27,11,2014-12-27,11,2018-08-18,11,,,,,,,,,,
+,Q57525757,Rumas government,2018-08-18,11,,,2020-06-03,11,,,,,,,,,,
+,Q96480444,Golovchenko government,2020-06-04,11,,,,,,,,,,,,,,
