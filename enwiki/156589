@@ -29,7 +29,8 @@
     "Belarusian nationalists",
     "Belarusian individuals subject to the U.S. Department of the Treasury sanctions",
     "Specially Designated Nationals and Blocked Persons List",
-    "21st-century Belarusian politicians"
+    "21st-century Belarusian politicians",
+    "Articles containing video clips"
   ],
   "sections": [
     {
@@ -149,7 +150,7 @@
               ]
             },
             {
-              "text": "However, relations with Russia have not always run smoothly under his tenure, such as during the Milk Wars.",
+              "text": "However, relations with Russia have not always run smoothly under his tenure, such as during the Milk War.",
               "links": [
                 {
                   "text": "relations with Russia",
@@ -157,7 +158,6 @@
                   "page": "Belarus–Russia relations"
                 },
                 {
-                  "text": "Milk Wars",
                   "type": "internal",
                   "page": "Milk War"
                 }
