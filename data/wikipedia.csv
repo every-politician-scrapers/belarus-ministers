@@ -9,7 +9,7 @@ num,office,officeBY,person,personBY,officeEN,personEN
 8,,Намеснік Прэм’ер-міністра Рэспублікі Беларусь,Q96654310,Аляксандр Субоцін,,Aleksander Subbotin
 9,,Намеснік Прэм’ер-міністра Рэспублікі Беларусь,Q87058344,Юрый Назараў,,Jury Nazaraŭ
 10,Q2576529,Міністр абароны Рэспублікі Беларусь,Q83283317,Віктар Хрэнін,Ministry of Defence of the Republic of Belarus,Viktor Khrenin
-11,Q6517829,Міністр адукацыі Рэспублікі Беларусь,,"",Ministry of Education of the Republic of Belarus,
+11,Q6517829,Міністр адукацыі Рэспублікі Беларусь,Q89419452,Андрэй Іванец,Ministry of Education of the Republic of Belarus,Andrei Ivanets
 12,Q6517837,Міністр архітэктуры і будаўніцтва Рэспублікі Беларусь,Q96059302,Руслан Пархамовіч,Ministry of Architecture and Construction of the Republic of Belarus,Ruslan Parkhamovich
 13,Q3919266,Міністр аховы здароўя Рэспублікі Беларусь,Q98605721,Дзмітрый Піневіч,Ministry of Public Health of the Republic of Belarus,Dmitry Pinevich
 14,Q6517849,Міністр антыманапольнага рэгулявання і гандлю Рэспублікі Беларусь,Q110223669,Аляксей Багданаў,Ministry of Antimonopoly Regulation and Trade of the Republic of Belarus,Alexei Bogdanov
@@ -23,7 +23,7 @@ num,office,officeBY,person,personBY,officeEN,personEN
 22,Q6517870,Міністр прамысловасці Рэспублікі Беларусь,Q90845282,Пётр Пархомчык,Ministry of Industry of the Republic of Belarus,Piotr Parkhomchyk
 23,Q6517877,Міністр працы і сацыяльнай абароны Рэспублікі Беларусь,Q28971534,Ірына Касцевіч,Ministry of Labour and Social Protection of the Republic of Belarus,Irina Kostevich
 24,Q6517881,Міністр прыродных рэсурсаў і аховы навакольнага асяроддзя Рэспублікі Беларусь,Q42302151,Андрэй Худык,Ministry of Natural Resources and Environmental Protection of the Republic of Belarus,Andrej Chudyk
-25,Q13031633,Міністр сельскай гаспадаркі і харчавання Рэспублікі Беларусь,,"",Ministry of Agriculture and Food of the Republic of Belarus,
+25,Q13031633,Міністр сельскай гаспадаркі і харчавання Рэспублікі Беларусь,Q110878697,Ігар Брыло,Ministry of Agriculture and Food of the Republic of Belarus,Igor Brylo
 26,Q6517890,Міністр спорту і турызму Рэспублікі Беларусь,Q51543441,Сяргей Кавальчук,Ministry of Sports and Tourism of the Republic of Belarus,Sergey Kovalchuk
 27,Q3919052,Міністр сувязі і інфарматызацыі Рэспублікі Беларусь,Q56193126,Канстанцін Шульган,Ministry of Communications and Informatization of the Republic of Belarus,Kanstancin Kanstancinavič Šulhan
 28,Q6517899,Міністр транспарту і камунікацый Рэспублікі Беларусь,Q60626586,Аляксей Аўраменка,Ministry of Transport and Communications of the Republic of Belarus,Aleksey Avramenko
@@ -34,10 +34,10 @@ num,office,officeBY,person,personBY,officeEN,personEN
 33,Q3918962,Міністр юстыцыі Рэспублікі Беларусь,Q98833684,Сяргей Хаменка,Ministry of Justice of the Republic of Belarus,Siarhei Khamenka
 34,Q6487420,Старшыня Дзяржаўнага ваенна-прамысловага камітэта Рэспублікі Беларусь,Q96185843,Дзмітрый Пантус,State Authority for Military Industry of the Republic of Belarus,Dmitry Pantus
 35,Q6487423,Старшыня Дзяржаўнага камітэта па маёмасці Рэспублікі Беларусь,Q96782465,Дзмітрый Матусевіч,The State Committee on Property of the Republic of Belarus,Dzmitry Matusevich
-36,Q6487432,Старшыня Дзяржаўнага камітэта па навуцы і тэхналогіях Рэспублікі Беларусь,Q110700278,Сяргей Шлычкоў,State Committee on Science and Technology,Sergey Vladimirovich Shlychkov
+36,Q6487432,Старшыня Дзяржаўнага камітэта па навуцы і тэхналогіях Рэспублікі Беларусь,Q110234758,Сяргей Шлычкоў,State Committee on Science and Technology,Sergei Shlychkov
 37,Q6487442,Старшыня Дзяржаўнага камітэта па стандартызацыі Рэспублікі Беларусь,Q60627515,Валянцін Татарыцкі,not found,Valentin Tataritsky
 38,Q4146971,Старшыня Дзяржаўнага мытнага камітэта Рэспублікі Беларусь,Q104405516,Уладзімір Арлоўскі,State Customs Committee of the Republic of Belarus,Uladzimir Arloŭski
 39,Q4146916,Старшыня Дзяржаўнага пагранічнага камітэта Рэспублікі Беларусь,Q28110629,Анатоль Лапо,State Border Committee of the Republic of Belarus,Anatoly Lapo
-40,Q1329608,Старшыня Камітэта дзяржаўнай бяспекі Рэспублікі Беларусь,"",Іван Тэртэль,State Security Committee of the Republic of Belarus,
+40,Q1329608,Старшыня Камітэта дзяржаўнай бяспекі Рэспублікі Беларусь,Q96435835,Іван Тэртэль,State Security Committee of the Republic of Belarus,Ivan Tertel
 41,Q1967977,Старшыня Прэзідыума Нацыянальнай акадэміі навук Беларусі,Q17619558,Уладзімір Гусакоў,National Academy of Sciences of Belarus,Vladimir Gusakov
 42,,Старшыня Праўлення Беларускага рэспубліканскага саюза спажывецкіх таварыстваў,Q3918889,Валерый Іваноў,,Valery Ivanow
