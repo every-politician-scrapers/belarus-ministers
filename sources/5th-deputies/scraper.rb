@@ -10,20 +10,20 @@ class OfficeholderList < OfficeholderListBase
   decorator WikidataIdsDecorator::Links
 
   def header_column
-    'Акруга'
+    'акруга'
   end
 
   class Officeholder < OfficeholderBase
     def columns
-      %w[_ name constituency].freeze
+      %w[name constituency party].freeze
     end
 
     def startDate
-      '2016-09-11'
+      '2012-10-18'
     end
 
     def endDate
-      '2019-12-06'
+      '2016-10-10'
     end
 
     #TODO: party + constituency
