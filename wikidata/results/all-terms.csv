@@ -1,0 +1,8 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+2,Q6538974,2nd Convocation of the National Assembly of Belarus,,,,,,,,,,,,,Q85413086,1st Convocation of the National Assembly of Belarus,Q6538983,3rd Convocation of the National Assembly of Belarus
+3,Q6538983,3rd Convocation of the National Assembly of Belarus,,,,,,,,,,,,,Q6538974,2nd Convocation of the National Assembly of Belarus,Q6538989,4th Convocation of the National Assembly of Belarus
+4,Q6538989,4th Convocation of the National Assembly of Belarus,,,,,,,,,,,,,Q6538983,3rd Convocation of the National Assembly of Belarus,,
+1,Q85413086,1st Convocation of the National Assembly of Belarus,,,,,,,,,,,,,,,Q6538974,2nd Convocation of the National Assembly of Belarus
+,Q28381376,5th Convocation of the National Assembly of Belarus,,,2012-09-23,11,,,2016-10-10,11,,,Q28381393,6th Convocation of the National Assembly of Belarus,,,Q28381393,6th Convocation of the National Assembly of Belarus
+,Q28381393,6th Convocation of the National Assembly of Belarus,,,2016-09-11,11,2019-12-06,11,,,Q28381376,5th Convocation of the National Assembly of Belarus,Q83463673,7th Convocation of the National Assembly of Belarus,Q28381376,5th Convocation of the National Assembly of Belarus,,
+7,Q83463673,7th Convocation of the National Assembly of Belarus,2019-11-17,11,,,,,,,Q28381393,6th Convocation of the National Assembly of Belarus,,,,,,
