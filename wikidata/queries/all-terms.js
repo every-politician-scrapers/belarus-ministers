@@ -3,7 +3,7 @@ let rawmeta = fs.readFileSync('meta.json');
 let meta = JSON.parse(rawmeta);
 
 module.exports = function () {
-  return `SELECT DISTINCT ?ordinal ?item ?itemLabel
+  return `SELECT DISTINCT ?ordinal ?item ?itemLabel ?start ?end
                   ?inception ?inceptionPrecision
                   ?startTime ?startTimePrecision
                   ?abolished ?abolishedPrecision
@@ -24,6 +24,7 @@ module.exports = function () {
     OPTIONAL { ?item wdt:P156 ?followedBy    }
 
     BIND(COALESCE(?inception, ?startTime) AS ?start)
+    BIND(COALESCE(?abolished, ?endTime) AS ?end)
 
     SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
   }
