@@ -52,6 +52,12 @@
           "day": "01",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Belarus"
+          ],
+          "template": "armed forces"
         }
       ],
       "infoboxes": [
@@ -91,7 +97,7 @@
             ]
           },
           "primeminister": {
-            "text": "Syarhey Rumas \nRoman Golovchenko",
+            "text": "Syarhey Rumas Roman Golovchenko",
             "links": [
               {
                 "type": "internal",
@@ -186,26 +192,17 @@
               }
             ]
           },
-          "branch": {
-            "text": "Armed Forces of Belarus",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Armed Forces of Belarus"
-              }
-            ]
-          },
           "rank": {
-            "text": "Lieutenant General",
+            "text": "Lieutenant general",
             "links": [
               {
                 "type": "internal",
-                "page": "Lieutenant General"
+                "page": "Lieutenant general"
               }
             ]
           },
           "serviceyears": {
-            "text": "1988&ndash;present"
+            "text": "1988–present"
           }
         }
       ]
