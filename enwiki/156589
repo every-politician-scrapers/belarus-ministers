@@ -593,11 +593,17 @@
             "text": "president.gov.by/en/"
           },
           "allegiance": {
-            "text": "Soviet Union\n\nBelarus",
+            "text": "Soviet Union\n🇧🇾 Belarus",
             "links": [
               {
+                "text": "Soviet Union",
                 "type": "internal",
-                "page": "Soviet Union"
+                "page": "undefined"
+              },
+              {
+                "text": "Belarus",
+                "type": "internal",
+                "page": "belarus"
               }
             ]
           },
