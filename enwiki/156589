@@ -168,7 +168,7 @@
         {
           "sentences": [
             {
-              "text": "Lukashenko heads an authoritarian government and has proudly referred to himself as \"Europe's last dictator\".",
+              "text": "Lukashenko heads an authoritarian government and has referred to himself as \"Europe's last dictator\".",
               "links": [
                 {
                   "text": "authoritarian",
@@ -214,19 +214,6 @@
                   "text": "anti-government protests",
                   "type": "internal",
                   "page": "2020–2021 Belarusian protests"
-                }
-              ]
-            },
-            {
-              "text": "Protesters have faced violent persecution by the authorities."
-            },
-            {
-              "text": "A statement by the United Nations Human Rights Office on 1 September 2020 cited more than 450 documented cases of torture and ill-treatment of detainees, as well as reports of sexual abuse and rape.",
-              "links": [
-                {
-                  "text": "United Nations Human Rights Office",
-                  "type": "internal",
-                  "page": "Office of the United Nations High Commissioner for Human Rights"
                 }
               ]
             },
