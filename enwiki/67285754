@@ -41,6 +41,14 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Vladimirovich",
+            "Gulevich"
+          ],
+          "lang": "Eastern Slavic",
+          "template": "family name hatnote"
+        },
+        {
           "year": "1969",
           "month": "05",
           "day": "14",

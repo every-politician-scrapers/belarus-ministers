@@ -40,13 +40,8 @@
         {
           "sentences": [
             {
-              "text": "Alexander Grigoryevich Lukashenko (also transliterated as Alyaksand(a)r Ryhoravich Lukashenka; born 31 August 1954) is a Belarusian politician who has served as the first and current president of Belarus since the establishment of the office on 20 July 1994, making him the longest serving and longest current serving European president.",
+              "text": "Alexander Grigoryevich Lukashenko (also transliterated as Alyaksand(a)r Ryhoravich Lukashenka; born 31 August 1954) is a Belarusian politician who has been serving as the president of Belarus since the establishment of the office on 20 July 1994, making him the longest serving and longest current serving European president.",
               "links": [
-                {
-                  "text": "Belarusian",
-                  "type": "internal",
-                  "page": "Belarus"
-                },
                 {
                   "text": "president of Belarus",
                   "type": "internal",
@@ -56,7 +51,9 @@
               "formatting": {
                 "bold": [
                   "Alexander Grigoryevich Lukashenko",
-                  "Alyaksand(a)r Ryhoravich Lukashenka"
+                  "Alyaksand",
+                  "a",
+                  "r Ryhoravich Lukashenka"
                 ]
               }
             },
@@ -168,17 +165,12 @@
         {
           "sentences": [
             {
-              "text": "Lukashenko heads an authoritarian government and has referred to himself as \"Europe's last dictator\".",
+              "text": "Lukashenko heads an authoritarian government and has referred to himself as the \"last dictator\" in Europe.",
               "links": [
                 {
                   "text": "authoritarian",
                   "type": "internal",
                   "page": "authoritarian"
-                },
-                {
-                  "text": "dictator",
-                  "type": "internal",
-                  "page": "dictator"
                 }
               ]
             },
@@ -255,7 +247,7 @@
       ],
       "templates": [
         {
-          "description": "President of Belarus",
+          "description": "President of Belarus since 1994",
           "template": "short description"
         },
         {
@@ -385,22 +377,17 @@
             ]
           },
           "term_start": {
-            "text": "20 July 1994 (Disputed since 23 September 2020)",
+            "text": "20 July 1994\nDisputed since 23 September 2020",
             "links": [
               {
                 "text": "Disputed",
                 "type": "internal",
                 "page": "2020–2021 Belarusian protests"
               }
-            ],
-            "formatting": {
-              "bold": [
-                "Disputed"
-              ]
-            }
+            ]
           },
           "predecessor": {
-            "text": "Myechyslaw Hryb\n(as Head of state and Chairman of the Supreme Council)",
+            "text": "Myechyslaw Hryb\n(as head of state and Chairman of the Supreme Council)",
             "links": [
               {
                 "type": "internal",
@@ -414,7 +401,7 @@
             ]
           },
           "office1": {
-            "text": "Chairman of the Supreme State Council of the Union State",
+            "text": "Chairman of the Supreme State Council\nof the Union State",
             "links": [
               {
                 "type": "internal",
@@ -478,7 +465,12 @@
             "text": "26 January 2000"
           },
           "predecessor1": {
-            "text": "Office established"
+            "text": "Office established",
+            "formatting": {
+              "italic": [
+                "Office established"
+              ]
+            }
           },
           "office2": {
             "text": "Member of the Supreme Council of Belarus",
@@ -522,7 +514,7 @@
             ]
           },
           "occupation": {
-            "text": "Politician\n\nArmy officer"
+            "text": "Politician"
           },
           "profession": {
             "text": "Economist"
@@ -580,7 +572,7 @@
             "text": "president.gov.by/en/"
           },
           "allegiance": {
-            "text": "Soviet Union\n🇧🇾 Belarus",
+            "text": "Soviet Union\n\n🇧🇾 Belarus",
             "links": [
               {
                 "text": "Soviet Union",
@@ -609,15 +601,14 @@
             ]
           },
           "rank": {
-            "text": "Commander-in-chief Lieutenant colonel",
+            "text": "Commander-in-Chief Lieutenant Colonel",
             "links": [
               {
-                "text": "Commander-in-chief",
                 "type": "internal",
                 "page": "Commander-in-Chief"
               },
               {
-                "text": "Lieutenant colonel",
+                "text": "Lieutenant Colonel",
                 "type": "internal",
                 "page": "Podpolkovnik"
               }
