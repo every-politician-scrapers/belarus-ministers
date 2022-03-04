@@ -173,7 +173,11 @@
                   "page": "authoritarian"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "Elections are not considered to be free and fair by international monitors, opponents of the regime are repressed, and the media is not free, leading to sanctions on Lukashenko and other Belarusian officials being imposed.",
               "links": [
@@ -309,7 +313,7 @@
             "text": "Alexander Lukashenko"
           },
           "native_name": {
-            "text": "Александр Лукашенко Аляксандр Лукашэнка"
+            "text": "Александр Лукашенко\nАляксандр Лукашэнка"
           },
           "image": {
             "text": "Alexander Lukashenko 2022 (cropped).jpg"
@@ -601,7 +605,7 @@
             ]
           },
           "rank": {
-            "text": "Commander-in-Chief Lieutenant Colonel",
+            "text": "Commander-in-Chief\nLieutenant Colonel",
             "links": [
               {
                 "type": "internal",
