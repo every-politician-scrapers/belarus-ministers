@@ -26,6 +26,10 @@ class OfficeholderList < OfficeholderListBase
       '2012-10-18'
     end
 
+    def empty?
+      tds[1].text == tds[2].text
+    end
+
     #TODO: party + constituency
   end
 end
