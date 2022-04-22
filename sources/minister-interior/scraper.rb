@@ -4,7 +4,18 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
+require 'open-uri/cached'
+
+class RemoveOldBeWiki < Scraped::Response::Decorator
+  def body
+    Nokogiri::HTML(super).tap do |doc|
+      doc.css('a[title^="be-x-old"]').remove
+    end.to_s
+  end
+end
+
 class OfficeholderList < OfficeholderListBase
+  decorator RemoveOldBeWiki
   decorator RemoveReferences
   decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
@@ -37,7 +48,7 @@ class OfficeholderList < OfficeholderListBase
     end
 
     def empty?
-      noko.text.scan(/(\d{4})/).flatten.last.to_i < 2000 rescue binding.pry
+      noko.text.scan(/(\d{4})/).flatten.last.to_i < 2000
     end
   end
 end
