@@ -1,6 +1,7 @@
 {
   "name": "Alexander Lukashenko",
   "native_name": "Александр Лукашенко\nАляксандр Лукашэнка",
+  "order": "1st",
   "office": "President of Belarus",
   "status": "Incumbent",
   "primeminister": "Mikhail Chigir\n\nSergey Ling\n\nVladimir Yermoshin\n\nGennady Novitsky\n\nSergei Sidorsky\n\nMikhail Myasnikovich\n\nAndrei Kobyakov\n\nSyarhey Rumas\n\nRoman Golovchenko",
@@ -19,7 +20,7 @@
   "predecessor2": "Office established",
   "successor2": "Office abolished",
   "birth_name": "Alexander Grigoryevich Lukashenko",
-  "birth_date": "August 31, 1954",
+  "birth_date": "August 30, 1954",
   "birth_place": "Kopys, Byelorussian SSR, Soviet Union",
   "occupation": "Politician",
   "profession": "Economist and Collective Farmer",
