@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Belarus",
+      "id": "Q184"
+    },
+    "cabinet": {
+      "id": "Q96480444",
+      "start": "2020-06-04",
+      "parent": "Q997640"
+    },
+    "source": {
+        "url":   "http://www.government.by/en/departments/",
+        "title": "Council of Ministers of the Republic of Belarus",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/belarus-ministers"
+}

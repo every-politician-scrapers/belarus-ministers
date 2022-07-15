@@ -56,10 +56,10 @@ class DeputyList < CabinetMemberList
   end
 end
 
-file_dpms = Pathname.new 'html/deputypm.html'
+file_dpms = Pathname.new 'deputypm.html'
 deputypms = EveryPoliticianScraper::FileData.new(file_dpms, klass: DeputyList::Deputies).csv
 
-file_mins = Pathname.new 'html/official.html'
+file_mins = Pathname.new 'official.html'
 # TODO: extend CSV method to allow skipping the header row
 ministers = EveryPoliticianScraper::FileData.new(file_mins, klass: MinisterList::Ministers).send(:rows)
 
