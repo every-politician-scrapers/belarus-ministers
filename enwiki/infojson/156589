@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "Supreme Council of Belarus"
+      ],
+      "stated_as": "Member of the Supreme Council of Belarus"
+    },
+    "P580": "1991-08-25",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    },
+    "P582": "1994-07-20",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Office abolished"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Belarus"
+    },
+    "P1545": "1",
+    "P580": "1994-07-20",
+    "P1365": {
+      "links": [
+        "Myechyslaw Hryb",
+        "Supreme Soviet of Belarus"
+      ],
+      "stated_as": "Myechyslaw Hryb\n(as head of state and Chairman of the Supreme Council)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Union State"
+      ],
+      "stated_as": "Chairman of the Supreme State Council\nof the Union State"
+    },
+    "P580": "2000-01-26",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Office established"
+    }
+  }
+]
