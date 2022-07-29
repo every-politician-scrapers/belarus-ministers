@@ -25,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Natalya Ivanovna Kochanova (born 25 September 1960) is a Belarusian politician who has been Speaker of the Council of the Republic of Belarus since December 2019.",
+              "text": "Natalya Ivanovna Kochanova (Наталля Іванаўна Качанава, born Talkachova (Талкачова), 25 September 1960) is a Belarusian politician who has been Speaker of the Council of the Republic of Belarus since December 2019.",
               "links": [
                 {
                   "text": "Belarusian",
@@ -44,7 +44,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Natalya Ivanovna Kochanova"
+                  "Natalya Ivanovna Kochanova",
+                  "Talkachova"
                 ]
               }
             }
@@ -121,6 +122,15 @@
                 "text": "Belarusian",
                 "type": "internal",
                 "page": "Belarusians"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mikhail Myasnikovich",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mikhail Myasnikovich"
               }
             ]
           }
